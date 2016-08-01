@@ -1,6 +1,6 @@
 #Requirements
 
-* [pyPyshBullet](https://github.com/Azelphur/pyPushBullet)
+* [pyPushBullet](https://github.com/Azelphur/pyPushBullet)
 * pip install pydub (If you want your computer to play a sound with a newly assigned project
 * Add your devices to [Pushbullet](https://www.pushbullet.com) and get an API key
 
