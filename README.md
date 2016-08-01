@@ -47,5 +47,5 @@ $ ./grading-assigner.py
 
 Press ctrl-c to quit.
 
-![img](img.png)
 ![img](img2.png)
+![img](img.png)
